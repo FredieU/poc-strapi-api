@@ -1,3 +1,17 @@
-# Strapi application
+# POC Strapi Application
 
-A quick description of your strapi application
+Testing Strapi as an API for a PT website
+
+## Set up
+
+Install dependencies
+
+```
+npm install
+```
+
+Run the local development sever
+
+```
+npm run develop
+```
